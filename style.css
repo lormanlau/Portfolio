@@ -110,4 +110,16 @@ html {
   height: 50px;
   padding-top: 25px;
 }
-
+#footer {
+  height: 75px;
+  background-color: white;
+  text-align: center;
+  padding: 5px;
+}
+#footer a {
+  color: black;
+}
+#footer img{
+  width: 20px;
+  height: 20px;
+}
